@@ -11,11 +11,11 @@ user_groups:
 - Researchers
 
 # Role/position/tagline
-role: Group Leader
+#role: Group Leader
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: visiting researcher @ UHH 
+- name: associated junior group leader @ UHH 
 - name: postdoc @ TUM
 #  url: https://www.stanford.edu/
 
