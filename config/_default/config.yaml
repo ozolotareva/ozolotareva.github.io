@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'CompSysMed@UHH        ' # Website name
-baseurl: 'https://ozolotareva.github.io/compsysmed' # Website URL
+baseurl: 'https://ozolotareva.github.io' # Website URL
 copyright: '' # Footer text, e.g. '© {2021} '
 
 ############################
