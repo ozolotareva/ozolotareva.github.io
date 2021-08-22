@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Maier | CompSysMed@UHH        </title>
+    <link>/authors/andi/</link>
+      <atom:link href="/authors/andi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Maier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/authors/andi/avatar_hu76c262e1bbe1218af5ac5fda524f7792_45160_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Andreas Maier</title>
+      <link>/authors/andi/</link>
+    </image>
+    
+  </channel>
+</rss>
