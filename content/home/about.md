@@ -1,21 +1,25 @@
 ---
-# An instance of the About widget.
+# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
+widget: blank
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 1
 
-title: Biography
+# Section title
+title: Computational and Systems Medicine
 
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  background:
+    color:  'grey' # 'navy'
+    text_color_light: true
 ---
+
+We work to advance the understanding of the molecular mechanisms behind human diseases, phenotypes, and drug effects. For that, we apply the existing and develop novel computational methods for network integration of multi-omics data, inference of key molecular players, and reconstruction of the mechanisms. Since many human disorders are highly heterogeneous at the molecular level, we are especially interested in omics-based patient stratification approaches and drug response prediction. 
