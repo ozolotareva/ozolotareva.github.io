@@ -34,11 +34,20 @@
     </item>
     
     <item>
-      <title>Drugst.one</title>
+      <title>Drugstone</title>
       <link>/project/drugst.one/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/project/drugst.one/</guid>
       <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeDRex-Web</title>
+      <link>/project/nedrex/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/project/nedrex/</guid>
+      <description>&lt;p&gt;A web interface for the NeDRex database (&lt;a href=&#34;https://nedrex.net/&#34;&gt;https://nedrex.net/&lt;/a&gt;) providing tools for the exploration of heterogenous biological networks and a focus on drug repurposing methods.&lt;/p&gt;
 </description>
     </item>
     
